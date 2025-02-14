@@ -1,6 +1,6 @@
 🚀 Programming Fundamentals - Lab 06
 📌 Overview:
-This repository contains Lab 06 solutions from the Programming Fundamentals course at FAST NUCES Lahore (Fall 2022).
+This repository contains Lab 06 solutions from the Programming Fundamentals course at FAST NUCES  (Fall 2022).
 The lab covers conditional structures (if-else, if-else-if ladder) in C++.
 
 📂 Topics Covered
